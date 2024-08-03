@@ -51,7 +51,18 @@ Things I need to do today:
 ## Tables in Markdown
 
 | Month    | Assignee | Backup |
-| ---:| :---:| :--- |
-| **January** | Dave     | Steve  |
-| **February** | Gregg    | Karen  |
-| **March**    | Diane    | Jorge  |
+| ---:| :---:| --- |
+| **January** | Dave     | _Steve_  |
+| **February** | Gregg    | _Karen_  |
+| **March**    | Diane    | _Jorge_  |
+
+
+### Links in Markdown
+
+[inline Link](https://www.jetbrains.com)
+
+[Inline Link](https://www.jetbrains.com "JetBrains: Development Tools for Professionals and Teams")
+
+[Reference Link][1]
+
+[1]: <http://www.jetbrains.com>
