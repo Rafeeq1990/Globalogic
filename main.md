@@ -44,6 +44,10 @@ And of course Dillinger itself is open source with a [Public repository][dll] on
 
 
 
+![Car-Red](assets/car-svgrepo-com.svg)
+
+
+
 ---
 
 
