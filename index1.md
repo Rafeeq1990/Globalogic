@@ -80,9 +80,9 @@ https://yourtrack.jetbrains.com/issues
 Email addresses are also converted into "mailto" links when set in angle brackets:
 
 
-Email me at: [Rafeeq][1]
+Email me at: [Rafeeq]
 
-[1]:mrafeeq290@gmaIL.com
+[Rafeeq]: mrafeeq290@gmail.com
 
 
 ***
