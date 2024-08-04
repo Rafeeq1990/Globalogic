@@ -65,4 +65,25 @@ Things I need to do today:
 
 [Reference Link][1]
 
-[1]: <http://www.jetbrains.com>
+[1]: https://www.jetbrains.com
+
+---
+
+## Auto Links
+
+Both of these URLs are parsed as links:
+
+<https://yourtrack.jetbrains.com/issues>
+
+https://yourtrack.jetbrains.com/issues
+
+Email addresses are also converted into "mailto" links when set in angle brackets:
+
+
+Email me at: [Rafeeq][1]
+
+[1]:<mrafeeq290@gmaIL.com>
+
+
+
+
